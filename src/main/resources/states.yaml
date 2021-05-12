@@ -11,6 +11,9 @@ single_state:
     behavior: bh_example
     behavior_config:
 
+  st_drivetrain:
+    behavior: bh_drivetrain
+
 
 done_for_time_state:
 
